@@ -1,0 +1,15 @@
+cat
+sun
+fox
+moon
+tree
+fish
+light
+bread
+apple
+planet
+jungle
+camera
+freedom
+picture
+blanket
